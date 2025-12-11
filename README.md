@@ -1,0 +1,1 @@
+The algorithm was developed to track a snack moving in a 2D-matrix. The particles follow the snack while the snack changed its direction. 
